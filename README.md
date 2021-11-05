@@ -9,4 +9,4 @@
 6. Cost Management: in turn, increased search ranking should scale down advertising costs, allowing your users and established leads to do your advertising for you.
 
 Project Repository Location- https://github.com/wwbarton/Horiseon-web-accessibility
-https://wwbarton.github.io/Horiseon-web-accessibility/
+-https://wwbarton.github.io/Horiseon-web-accessibility/
